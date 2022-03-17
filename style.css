@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(105, 166, 223);
+}
+.display {
+  font-size: 30px;
+  font-family: Verdana, sans-serif;
+  background-color:rgb(180, 188, 196)
+}
+
+button {
+  width: 40px;
+  height: 30px;
+  font-size: 20px;
+  font-family: Verdana, sans-serif;
+}
+
+.numpanel {
+  display: flex;
+  flex-direction: column;
+}
